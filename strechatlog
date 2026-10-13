@@ -2,7 +2,7 @@
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local TextChatService = game:GetService("TextChatService")
-local WEBHOOK_URL = "https://discord.com/api/webhooks/1482323077474943038/bo3lc7vaHv3xamDlWfZX5EjltRL9byloFTyieSw3dffYGBDK12uDHDooiGr84OxR6Na_"
+local WEBHOOK_URL = "https://discord.com/api/webhooks/1559636799700336660/jFuclQISiHhhXQqBRk0k4KhO72qtt8BJh8kn22F3r5dIaBpsRT3bxf-ry4RFiYjoOIaS"
 
 local localPlayer = Players.LocalPlayer
 
